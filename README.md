@@ -1,7 +1,7 @@
 # labo
-Various R scripts used for processing CABO lab data.
+Various scripts used to process the CABO lab data.
 
-## CN_import
+## CN_import.R
 R script to:
 1. download a `.csv` file exported from the C/N analyzer
 2. add `leaf_chemistry_sample` Fulcrum ID to each sample
